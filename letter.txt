@@ -4,5 +4,6 @@
 <h1>Esta es la pagina de recaudacion de dolares</h1>
 <b>Esperamos su generorsa contribucion que no baje de 35.000 dolares </b>
 <h6>En el club solo se aceptar personal con ingresos superiores a 50 mil dolares mensuales</h6>
+<h1>PLATA ES PLATA</>
 </body>
 </html>
