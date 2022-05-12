@@ -1,6 +1,8 @@
 <DOCTYPE html>
 <html>
 <body>
+<h1>Esta es la pagina de recaudacion de dolares</h1>
+<b>Esperamos su generorsa contribucion que no baje de 35.000 dolares </b>
 <h1>PLATA ES PLATA</>
 </body>
 </html>
