@@ -1,0 +1,16 @@
+.cuadro{
+    width: 1250px;
+    height: 1050px;
+    margin: 0 auto;
+}
+.borde{
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    border-style: solid;
+    float: left;
+    background-color: beige;
+}
+.borde:hover{
+    background-color: bisque;
+}

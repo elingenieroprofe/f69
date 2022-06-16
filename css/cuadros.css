@@ -1,0 +1,12 @@
+.borde{
+    border:1px;
+    border-color: black;
+    border-style:solid;
+    width: 40px;
+    height: 40px;
+    float: left;
+}
+.cuadro{
+    width: 296px;
+    height: 210px;
+}
