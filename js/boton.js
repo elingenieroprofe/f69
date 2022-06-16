@@ -21,3 +21,17 @@ btnN3.addEventListener("click",mostrarTexto);
 function mostrarTexto(){
     alert(nombre.value);
 }
+
+
+nombre.addEventListener("mousemove", mostrarTexto);
+
+// nombre.addEventListener("keydown", mostrarTexto);
+
+
+
+
+// btnN2.addEventListener("click", imprimir);
+// function imprimir(){                             OTRA MANERA DE HACER LA FUNCION
+//     alert("Nombre")
+// }   
+
